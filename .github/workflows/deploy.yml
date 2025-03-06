@@ -1,4 +1,4 @@
-name: BMI Calculator
+name: React App Deployment
 
 on:
   push:
